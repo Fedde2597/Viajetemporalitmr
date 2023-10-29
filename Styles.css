@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Fuenterandom; 
+    src: url("Ragara.ttf");
+}
+
+.imagen{
+
+border-radius: 10px;
+border: 10px solid orangered;
+
+}
+.contenedor{
+
+display: flex;
+
+}
+body {
+font-family: Fuenterandom
+}
+body {
+    background-color: #d5b89a;
+}
